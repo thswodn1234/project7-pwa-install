@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
++https://project07-dc5ed.firebaseapp.com/
 
 ## Available Scripts
 
