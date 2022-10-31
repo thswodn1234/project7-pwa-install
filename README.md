@@ -1,6 +1,6 @@
 # Getting Started with Firebase
 
-+https://project07-dc5ed.firebaseapp.com/
++https://project07-dc5ed.web.app/
 
 ## Available Scripts
 
